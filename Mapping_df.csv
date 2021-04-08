@@ -1,0 +1,729 @@
+,article_id,title
+0,0.0,detect malfunctioning iot sensors with streaming analytics
+1,2.0,"this week in data science (april 18, 2017)"
+2,4.0,analyze ny restaurant data using spark in dsx
+3,8.0,data science bowl 2017
+4,9.0,"3992    using apache spark to predict attack vectors a...
+Name: title, dtype: object"
+5,12.0,timeseries data analysis of iot events by using jupyter notebook
+6,14.0,got zip code data? prep it for analytics. – ibm watson data lab – medium
+7,15.0,apache spark™ 2.0: extend structured streaming for spark ml
+8,16.0,higher-order logistic regression for large datasets
+9,18.0,the greatest public datasets for ai – startup grind
+10,20.0,working interactively with rstudio and notebooks in dsx
+11,25.0,creating the data science experience
+12,26.0,using machine learning to predict parking difficulty
+13,28.0,deep forest: towards an alternative to deep neural networks
+14,29.0,experience iot with coursera
+15,30.0,how open api economy accelerates the growth of big data and analytics
+16,32.0,a kaggler's guide to model stacking in practice
+17,33.0,using brunel in ipython/jupyter notebooks
+18,34.0,top 10 machine learning use cases: part 1
+19,36.0,data visualization playbook: the right level of detail
+20,39.0,pulling and displaying etf data
+21,40.0,ensemble learning to improve machine learning results
+22,43.0,deep learning with tensorflow course by big data university
+23,48.0,data science experience documentation
+24,50.0,graph-based machine learning
+25,51.0,modern machine learning algorithms
+26,53.0,introducing streams designer
+27,54.0,8 ways to turn data into value with apache spark machine learning
+28,57.0,transfer learning for flight delay prediction via variational autoencoders
+29,58.0,advancements in the spark community
+30,59.0,"20405    how to tame the valley — hessian-free hacks fo...
+Name: title, dtype: object"
+31,60.0,readr 1.0.0
+32,62.0,data visualization: the importance of excluding unnecessary details
+33,64.0,predicting gentrification using longitudinal census data
+34,65.0,interconnect with us
+35,68.0,an introduction to scientific python (and a bit of the maths behind it) – numpy
+36,74.0,the 3 kinds of context: machine learning and the art of the frame
+37,76.0,"this week in data science (may 2, 2017)"
+38,77.0,apache spark @scale: a 60 tb+ production use case
+39,78.0,"this week in data science (may 16, 2017)"
+40,80.0,leverage scikit-learn models with core ml
+41,81.0,transform anything into a vector
+42,82.0,build a logistic regression model with wml & dsx
+43,87.0,"this week in data science (july 26, 2016)"
+44,89.0,top 20 r machine learning and data science packages
+45,92.0,9 mistakes to avoid when starting your career in data science
+46,96.0,improving quality of life with spark-empowered machine learning
+47,98.0,how to map usa rivers using ggplot2
+48,100.0,use data assets in a project using ibm data catalog
+49,101.0,how to choose a project to practice data science
+50,102.0,how to ease the strain as your data volumes rise
+51,103.0,how to scale your analytics using r
+52,107.0,when machine learning matters · erik bernhardsson
+53,108.0,"520    using notebooks with pixiedust for fast, flexi...
+Name: title, dtype: object"
+54,109.0,tensorflow quick tips
+55,110.0,pixiedust: magic for your python notebook
+56,111.0,tidy up your jupyter notebooks with scripts
+57,112.0,building custom machine learning algorithms with apache systemml
+58,113.0,"this week in data science (february 28, 2017)"
+59,115.0,finding the user in data science
+60,116.0,practical tutorial on random forest and parameter tuning in r
+61,117.0,apache spark™ 2.0: migrating applications
+62,120.0,a dynamic duo – inside machine learning – medium
+63,122.0,watson machine learning for developers
+64,124.0,python machine learning: scikit-learn tutorial
+65,125.0,statistics for hackers
+66,130.0,feature importance and why it's important
+67,131.0,simple graphing with ipython and pandas
+68,132.0,collecting data science cheat sheets
+69,134.0,"this week in data science (november 01, 2016)"
+70,136.0,"this week in data science (february 7, 2017)"
+71,138.0,best packages for data manipulation in r
+72,142.0,neural networks for beginners: popular types and applications
+73,143.0,0 to life-changing app: scala first steps and an interview with jakob odersky
+74,145.0,"68879    don’t throw more data at the problem! here’s h...
+Name: title, dtype: object"
+75,146.0,how to use db2 warehouse on cloud in data science experience notebooks
+76,151.0,jupyter notebook tutorial
+77,152.0,how to solve 90% of nlp problems
+78,153.0,"predicting flight cancellations using weather data, part 3"
+79,157.0,data science of variable selection
+80,158.0,d3heatmap: interactive heat maps
+81,162.0,an introduction to stock market data analysis with r (part 1)
+82,164.0,learn tensorflow and deep learning together and now!
+83,173.0,"10 must attend data science, ml and ai conferences in 2018"
+84,176.0,top analytics tools in 2016
+85,181.0,bayesian regularization for #neuralnetworks – autonomous agents — #ai
+86,183.0,data science expert interview: holden karau
+87,184.0,improving the roi of big data and analytics through leveraging new sources of data
+88,188.0,foundational methodology for data science
+89,189.0,common excel tasks demonstrated in pandas
+90,191.0,"this week in data science (march 28, 2017)"
+91,193.0,spark 2.1 and job monitoring available in dsx
+92,194.0,data science for real-time streaming analytics
+93,195.0,"artificial intelligence, ethically speaking – inside machine learning – medium"
+94,202.0,analyze open data sets using pandas in a python notebook
+95,205.0,a beginner's guide to variational methods
+96,210.0,"this week in data science (february 14, 2017)"
+97,213.0,modeling energy usage in new york city
+98,215.0,data wrangling with dplyr and tidyr cheat sheet
+99,221.0,how smart catalogs can turn the big data flood into an ocean of opportunity
+100,223.0,using bigdl in dsx for deep learning on spark
+101,224.0,"using apply, sapply, lapply in r"
+102,225.0,a visual explanation of the back propagation algorithm for neural networks
+103,230.0,web picks (week of 23 january 2017)
+104,232.0,self-service data preparation with ibm data refinery
+105,233.0,bayesian nonparametric models – stats and bots
+106,234.0,3 scenarios for machine learning on multicloud
+107,236.0,improving real-time object detection with yolo
+108,237.0,deep learning with data science experience
+109,239.0,getting started with graphframes in apache spark™
+110,240.0,spark 1.4 for rstudio
+111,241.0,i am not a data scientist – ibm watson data lab
+112,244.0,notebooks: a power tool for data scientists
+113,250.0,building your first machine learning system 
+114,251.0,"8170    data science expert interview: dez blanchfield...
+Name: title, dtype: object"
+115,252.0,web picks (week of 4 september 2017)
+116,253.0,"56594    lifelong (machine) learning: how automation ca...
+Name: title, dtype: object"
+117,254.0,"apple, ibm add machine learning to partnership with watson-core ml coupling"
+118,256.0,xml2 1.0.0
+119,258.0,open sourcing 223gb of driving data – udacity inc
+120,260.0,the machine learning database
+121,263.0,december '16 rstudio tips and tricks
+122,266.0,developing ibm streams applications with the python api (version 1.6)
+123,268.0,sector correlations shiny app
+124,270.0,learning statistics on youtube
+125,273.0,statistical bias types explained (with examples)
+126,277.0,work with data connections in dsx
+127,278.0,deep learning trends and an example
+128,283.0,twelve ways to color a map of africa using brunel
+129,284.0,apache spark 2.0: machine learning. under the hood and over the rainbow.
+130,288.0,"this week in data science (january 31, 2017)"
+131,291.0,a guide to receptive field arithmetic for convolutional neural networks
+132,295.0,awesome deep learning papers
+133,297.0,dimensionality reduction algorithms
+134,298.0,join and enrich data from multiple sources
+135,299.0,brunel in jupyter
+136,302.0,accelerate your workflow with dsx
+137,303.0,backpropagation — how neural networks learn complex behaviors
+138,310.0,time series prediction using recurrent neural networks (lstms)
+139,311.0,probabilistic graphical models tutorial — part 2 – stats and bots
+140,313.0,what is machine learning?
+141,314.0,some random weekend reading
+142,315.0,neurally embedded emojis
+143,316.0,"leverage python, scikit, and text classification for behavioral profiling"
+144,319.0,using shell scripts to control data flows created in watson applications
+145,323.0,manage object storage in dsx
+146,324.0,mycheatsheets.com
+147,329.0,introduction to market basket analysis in python
+148,330.0,brunel: imitation is a sincere form of flattery
+149,336.0,challenges in deep learning
+150,337.0,generalization in deep learning
+151,339.0,get started with streams designer by following this roadmap
+152,346.0,fighting gerrymandering: using data science to draw fairer congressional districts
+153,347.0,announcing dsx environments in beta!
+154,348.0,"this week in data science (april 25, 2017)"
+155,349.0,ibm data science experience white paper - sparkr transforming r into a tool for big data analytics
+156,350.0,collect your own fitbit data with python
+157,351.0,do i need to learn r?
+158,352.0,how ibm builds an effective data science team
+159,353.0,sparklyr — r interface for apache spark
+160,355.0,run shiny applications in rstudio in dsx
+161,356.0,"deep learning, structure and innate priors"
+162,359.0,optimizing a marketing campaign: moving from predictions to actions
+163,362.0,dsx: hybrid mode
+164,363.0,"66855    migration from ibm bluemix data connect api (a...
+Name: title, dtype: object"
+165,364.0,"this week in data science (october 18, 2016)"
+166,366.0,clustering: a guide for the perplexed
+167,367.0,visualising data the node.js way
+168,369.0,upload data and create data frames in jupyter notebooks
+169,373.0,working with notebooks in dsx
+170,375.0,apache systemml
+171,376.0,ggplot2 2.2.0 coming soon!
+172,379.0,data structures related to machine learning algorithms
+173,381.0,a classification problem
+174,382.0,what is text analytics?
+175,383.0,an interview with pythonista katharine jarmul
+176,384.0,continuous learning on watson
+177,389.0,apache spark™ 2.0: impressive improvements to spark sql
+178,390.0,introducing ibm watson studio 
+179,395.0,run dsx notebooks on amazon emr
+180,398.0,"51822    using apache spark as a parallel processing fr...
+Name: title, dtype: object"
+181,399.0,predicting the 2016 us presidential election
+182,400.0,read and write data to and from amazon s3 buckets in rstudio
+183,404.0,persistent changes to spark config in dsx
+184,409.0,using github for project control in dsx
+185,411.0,0 to life-changing app: new apache systemml api on spark shell
+186,412.0,adoption of machine learning to software failure prediction
+187,415.0,using machine learning to predict value of homes on airbnb
+188,416.0,using the maker palette in the ibm data science experience
+189,417.0,ibm data catalog overview
+190,420.0,cache table in apache spark sql
+191,422.0,brunel 2.0 preview
+192,426.0,migrating to python 3 with pleasure
+193,427.0,ibm data catalog is now generally available
+194,428.0,data science experience demo: modeling energy usage in nyc
+195,429.0,why relational databases and r?
+196,430.0,the new builders podcast ep 3: collaboration
+197,437.0,ibm watson machine learning: get started
+198,440.0,"this week in data science (january 24, 2017)"
+199,443.0,load db2 warehouse on cloud data with apache spark in dsx
+200,444.0,declarative machine learning
+201,446.0,what’s new in data refinery?
+202,448.0,"this week in data science (april 11, 2017)"
+203,455.0,make machine learning a reality for your enterprise
+204,460.0,web picks - dataminingapps
+205,462.0,i'd rather predict basketball games than elections: elastic nba rankings
+206,463.0,what is spark?
+207,464.0,use ibm data science experience to detect time series anomalies
+208,465.0,"introduction to neural networks, advantages and applications"
+209,468.0,what is hadoop?
+210,470.0,what’s new in the streaming analytics service on bluemix
+211,473.0,intelligent applications - apache spark
+212,474.0,publish notebooks to github in dsx
+213,475.0,gradient boosting explained
+214,477.0,markdown for jupyter notebooks cheatsheet
+215,479.0,drowning in data sources: how data cataloging could fix your findability problems
+216,480.0,optimization for deep learning highlights in 2017
+217,482.0,using deep learning with keras to predict customer churn
+218,485.0,a moving average trading strategy
+219,486.0,use spark r to load and analyze data
+220,491.0,"this week in data science (may 23, 2017)"
+221,492.0,web picks by dataminingapps
+222,494.0,python for loops explained (python for data science basics #5)
+223,495.0,top 10 machine learning algorithms for beginners
+224,499.0,let data dictate the visualization
+225,500.0,"the difference between ai, machine learning, and deep learning?"
+226,502.0,"this week in data science (august 02, 2016)"
+227,504.0,"this week in data science (december 27, 2016)"
+228,508.0,data science in the cloud
+229,510.0,"this week in data science (may 30, 2017)"
+230,515.0,the art of side effects: curing apache spark streaming’s amnesia (part 1/2)
+231,517.0,shaping data with ibm data refinery
+232,521.0,learn about data science in world of watson
+233,522.0,share the (pixiedust) magic – ibm watson data lab – medium
+234,524.0,data science platforms are on the rise and ibm is leading the way
+235,525.0,new shiny cheat sheet and video tutorial
+236,528.0,10 tips on using jupyter notebook
+237,532.0,the two phases of gradient descent in deep learning
+238,534.0,dplyr 0.5.0
+239,542.0,getting started with python
+240,544.0,data visualization with ggplot2 cheat sheet
+241,547.0,trust in data science
+242,553.0,which one to choose for your problem
+243,555.0,build a naive-bayes model with wml & dsx
+244,557.0,let's have some fun with nfl data
+245,559.0,"this week in data science (april 4, 2017)"
+246,563.0,rstudio ide  cheat sheet
+247,564.0,dt: an r interface to the datatables library
+248,566.0,the t-distribution: a key statistical concept discovered by a beer brewery
+249,567.0,you could be looking at it all wrong
+250,569.0,how can data scientists collaborate to build better business
+251,575.0,the new builders ep. 13: all the data that’s fit to analyze
+252,583.0,the million dollar question: where is my data?
+253,585.0,tidyverse practice: mapping large european cities
+254,586.0,building a business that combines human experts and data science
+255,588.0,tidyr 0.6.0
+256,593.0,upload files to ibm data science experience using the command line
+257,599.0,random forest interpretation – conditional feature contributions
+258,600.0,access ibm analytics for apache spark from rstudio
+259,606.0,web picks (december 2017)
+260,607.0,recommendation system algorithms – stats and bots
+261,609.0,simple linear regression? do it the bayesian way
+262,610.0,back to basics — jupyter notebooks
+263,616.0,three reasons machine learning models go out of sync
+264,617.0,pixiedust gets its first community-driven feature in 1.0.4
+265,618.0,can a.i. be taught to explain itself?
+266,622.0,htmlwidgets: javascript data visualization for r
+267,626.0,analyze db2 warehouse on cloud data in rstudio in dsx
+268,631.0,"this week in data science (january 17, 2017)"
+269,632.0,hyperparameter optimization: sven hafeneger
+270,634.0,working with db2 warehouse on cloud in data science experience
+271,636.0,one year as a data scientist at stack overflow
+272,641.0,"perform sentiment analysis with lstms, using tensorflow"
+273,644.0,h2o with ibm's data science experience (dsx)
+274,645.0,how to perform a logistic regression in r
+275,647.0,getting started with apache mahout
+276,651.0,analyzing streaming data from kafka topics
+277,653.0,create a connection and add it to a project using ibm data refinery
+278,655.0,create a project for watson machine learning in dsx
+279,656.0,deep learning achievements over the past year 
+280,658.0,automating web analytics through python
+281,659.0,"discover, catalog and govern data with ibm data catalog"
+282,662.0,build deep learning architectures with neural network modeler
+283,665.0,get social with your notebooks in dsx
+284,667.0,imitation learning in tensorflow (hopper from openai gym)
+285,668.0,shiny: a data scientist’s best friend
+286,669.0,70 amazing free data sources you should know
+287,670.0,calculate moving averages on real time data with streams designer
+288,673.0,predict chronic kidney disease using spss modeler flows
+289,675.0,webinar: april 11 - thinking inside the box: you can do that inside a data frame?!
+290,677.0,package development with devtools  cheat sheet
+291,678.0,spark sql - rapid performance evolution
+292,679.0,this week in data science
+293,680.0,how the circle line rogue train was caught with data
+294,681.0,real-time sentiment analysis of twitter hashtags with spark (+ pixiedust)
+295,682.0,easy json loading and social sharing in dsx notebooks
+296,684.0,flexdashboard: interactive dashboards for r
+297,686.0,"score a predictive model built with ibm spss modeler, wml & dsx"
+298,692.0,15 page tutorial for r
+299,693.0,better together: spss and data science experience
+300,695.0,excel files: loading from object storage — python
+301,701.0,missing data conundrum: exploration and imputation techniques
+302,705.0,word2vec in data products
+303,708.0,load and analyze public data sets in dsx
+304,714.0,a survey of books about apache spark™
+305,715.0,"for ai to get creative, it must learn the rules--then how to break 'em"
+306,720.0,data visualization playbook: telling the data story
+307,721.0,the power of machine learning in spark
+308,722.0,visual information theory 
+309,723.0,10 essential algorithms for machine learning engineers
+310,724.0,nips 2016 — day 2 highlights
+311,725.0,"this week in data science (march 7, 2017)"
+312,727.0,from python nested lists to multidimensional numpy arrays
+313,729.0,pixiedust 1.0 is here! – ibm watson data lab
+314,730.0,developing for the ibm streaming analytics service
+315,732.0,rapidly build machine learning flows with dsx
+316,735.0,making sense of the bias / variance trade-off in (deep) reinforcement learning
+317,740.0,10 pieces of advice to beginner data scientists
+318,744.0,spark-based machine learning tools for capturing word meanings
+319,749.0,hurricane how-to
+320,751.0,build a predictive analytic model
+321,757.0,working with on-premises databases — step by step
+322,758.0,a glimpse inside the mind of a data scientist
+323,759.0,are your predictive models like broken clocks?
+324,760.0,"seti data, publicly available, from ibm"
+325,761.0,"variational auto-encoder for ""frey faces"" using keras"
+326,763.0,load data into rstudio for analysis in dsx
+327,764.0,tidy data in python
+328,766.0,making data science a team sport
+329,768.0,python if statements explained (python for data science basics #4)
+330,778.0,governance overview for ibm data catalog
+331,781.0,empirical bayes for multiple sample sizes
+332,782.0,effectively using matplotlib
+333,784.0,"10 data science, machine learning and ai podcasts you must listen to"
+334,785.0,interactive time series with dygraphs
+335,788.0,quick guide to build a recommendation engine in python
+336,793.0,"10 powerful features on watson data platform, no coding necessary"
+337,795.0,"7292    a dramatic tour through python’s data visualiz...
+Name: title, dtype: object"
+338,800.0,machine learning for the enterprise
+339,805.0,machine learning for everyone
+340,809.0,use the machine learning library
+341,812.0,"machine learning exercises in python, part 1"
+342,813.0,generative adversarial networks (gans)
+343,821.0,using rstudio in ibm data science experience
+344,825.0,what is smote in an imbalanced class setting (e.g. fraud detection)?
+345,833.0,machine learning and the science of choosing
+346,843.0,aspiring data scientists! start to learn statistics with these 6 books!
+347,844.0,use the cloudant-spark connector in python notebook
+348,846.0,pearson correlation aggregation on sparksql
+349,853.0,best practices for custom models in watson visual recognition
+350,855.0,enjoy python 3.5 in jupyter notebooks
+351,857.0,r markdown reference guide
+352,858.0,analyze starcraft ii replays with jupyter notebooks
+353,861.0,cleaning the swamp: turn your data lake into a source of crystal-clear insight
+354,862.0,time series analysis using max/min and neuroscience
+355,864.0,"this week in data science (february 21, 2017)"
+356,865.0,analyze traffic data from the city of san francisco
+357,868.0,how to write the first for loop in r
+358,870.0,stacking multiple custom models in watson visual recognition
+359,871.0,overfitting in machine learning: what it is and how to prevent it
+360,876.0,statistical bias types explained
+361,878.0,10 data science podcasts you need to be listening to right now
+362,880.0,probabilistic graphical models tutorial — part 1 – stats and bots
+363,881.0,web picks (week of 2 october 2017)
+364,882.0,blogging with brunel
+365,884.0,don’t overlook simpler techniques and algorithms
+366,887.0,"502    forgetting the past to learn the future: long ...
+Name: title, dtype: object"
+367,891.0,interactive web apps with shiny cheat sheet
+368,892.0,breaking the 80/20 rule: how data catalogs transform data scientists’ productivity
+369,896.0,a guide to convolution arithmetic for deep learning
+370,898.0,neural language modeling from scratch (part 1)
+371,903.0,an attempt to understand boosting algorithm(s)
+372,905.0,the random forest algorithm 
+373,906.0,jupyter (ipython) notebooks features
+374,910.0,working with ibm cloud object storage in python
+375,911.0,using machine learning to predict baseball injuries
+376,919.0,watson speech-to-text services — tl;dr need not apply
+377,926.0,talent vs luck: the role of randomness in success and failure
+378,928.0,time series anomaly detection algorithms – stats and bots
+379,930.0,how to use version control (github) in rstudio within dsx?
+380,932.0,pseudo-labeling a simple semi-supervised learning method
+381,933.0,workflow in r
+382,935.0,making data cleaning simple with the sparkling.data library
+383,936.0,unstructured and structured data versus repetitive and non-repetitive
+384,939.0,deep learning from scratch i: computational graphs
+385,940.0,a new version of dt (0.2) on cran
+386,941.0,"a fast on-disk format for data frames for r and python, powered by apache arrow"
+387,943.0,discover hidden facebook usage insights
+388,947.0,big data is better data
+389,948.0,what is systemml? why is it relevant to you?
+390,949.0,apache spark sql analyzer resolves order-by column
+391,951.0,shiny 0.12: interactive plots with ggplot2
+392,952.0,why even a moth’s brain is smarter than an ai
+393,955.0,leaflet: interactive web maps with r
+394,957.0,brunel interactive visualizations in jupyter notebooks
+395,958.0,using dsx notebooks to analyze github data
+396,959.0,understanding empirical bayes estimation (using baseball statistics)
+397,961.0,beyond parallelize and collect
+398,962.0,data visualization with r: scrum metrics
+399,965.0,data visualization playbook: revisiting the basics
+400,967.0,ml algorithm != learning machine
+401,968.0,shiny 0.13.0
+402,969.0,flightpredict ii: the sequel  – ibm watson data lab
+403,972.0,create a project in dsx
+404,973.0,recent trends in recommender systems
+405,974.0,"this week in data science (november 22, 2016)"
+406,975.0,the data science process
+407,977.0,apache spark as the new engine of genomics
+408,981.0,super fast string matching in python
+409,984.0,the data processing inequality
+410,985.0,a day in the life of a data engineer
+411,986.0,r for data science
+412,990.0,"this week in data science (january 10, 2017)"
+413,993.0,configuring the apache spark sql context
+414,996.0,5 practical use cases of social network analytics: going beyond facebook and twitter
+415,997.0,apache spark: upgrade and speed-up your analytics
+416,1000.0,recommender systems: approaches & algorithms
+417,1004.0,how to get a job in deep learning
+418,1006.0,essentials of machine learning algorithms (with python and r codes)
+419,1008.0,"2875    hugo larochelle's neural network & deep learni...
+Name: title, dtype: object"
+420,1014.0,"1448    i ranked every intro to data science course on...
+Name: title, dtype: object"
+421,1015.0,enhanced color mapping
+422,1016.0,why you should master r (even if it might eventually become obsolete)
+423,1017.0,the pandas data analysis library
+424,1018.0,7 types of job profiles that makes you a data scientist
+425,1024.0,using deep learning to reconstruct high-resolution audio
+426,1025.0,data tidying in data science experience
+427,1028.0,working with sqlite databases using python and pandas
+428,1030.0,laplace noising versus simulated out of sample methods (cross frames)
+429,1035.0,machine learning for the enterprise.
+430,1038.0,reducing overplotting in scatterplots
+431,1042.0,use ibm data science experience to read and write data stored on amazon s3
+432,1043.0,use iot data in streams designer for billing and alerts
+433,1044.0,mapping points with folium
+434,1047.0,a comparison of logistic regression and naive bayes 
+435,1048.0,"1357    what i learned implementing a classifier from ...
+Name: title, dtype: object"
+436,1050.0,"jupyter notebooks with scala, python, or r kernels"
+437,1051.0,a tensorflow regression model to predict house values
+438,1052.0,access db2 warehouse on cloud and db2 with python
+439,1053.0,access mysql with python
+440,1054.0,access mysql with r
+441,1055.0,access postgresql with python
+442,1056.0,access postgresql with r
+443,1057.0,"adolescent fertility rate (births per 1,000 women ages 15-19), worldwide"
+444,1058.0,"agriculture, value added (% of gdp) by country"
+445,1059.0,airbnb data for analytics: amsterdam calendar
+446,1060.0,airbnb data for analytics: amsterdam listings
+447,1061.0,airbnb data for analytics: amsterdam reviews
+448,1062.0,airbnb data for analytics: antwerp calendar
+449,1063.0,airbnb data for analytics: antwerp listings
+450,1064.0,airbnb data for analytics: antwerp listings test
+451,1065.0,airbnb data for analytics: antwerp reviews
+452,1066.0,airbnb data for analytics: athens calendar
+453,1067.0,airbnb data for analytics: athens listings
+454,1068.0,airbnb data for analytics: athens reviews
+455,1069.0,airbnb data for analytics: austin calendar
+456,1070.0,airbnb data for analytics: austin listings
+457,1071.0,airbnb data for analytics: austin reviews
+458,1072.0,airbnb data for analytics: barcelona calendar
+459,1073.0,airbnb data for analytics: barcelona listings
+460,1074.0,airbnb data for analytics: barcelona reviews
+461,1075.0,airbnb data for analytics: berlin calendar
+462,1077.0,airbnb data for analytics: berlin reviews
+463,1078.0,airbnb data for analytics: boston calendar
+464,1079.0,airbnb data for analytics: boston listings
+465,1080.0,airbnb data for analytics: boston reviews
+466,1083.0,airbnb data for analytics: brussels reviews
+467,1084.0,airbnb data for analytics: chicago calendar
+468,1085.0,airbnb data for analytics: chicago listings
+469,1086.0,airbnb data for analytics: chicago reviews
+470,1089.0,airbnb data for analytics: dublin reviews
+471,1091.0,airbnb data for analytics: london listings
+472,1092.0,airbnb data for analytics: london reviews
+473,1097.0,airbnb data for analytics: madrid listings
+474,1101.0,airbnb data for analytics: mallorca reviews
+475,1106.0,airbnb data for analytics: montreal listings
+476,1108.0,airbnb data for analytics: nashville calendar
+477,1112.0,airbnb data for analytics: new orleans listings
+478,1113.0,airbnb data for analytics: new orleans reviews
+479,1114.0,airbnb data for analytics: new york city calendar
+480,1116.0,airbnb data for analytics: new york city reviews
+481,1119.0,airbnb data for analytics: oakland reviews
+482,1120.0,airbnb data for analytics: paris calendar
+483,1121.0,airbnb data for analytics: paris listings
+484,1122.0,airbnb data for analytics: paris reviews
+485,1123.0,airbnb data for analytics: portland calendar
+486,1124.0,airbnb data for analytics: portland listings
+487,1125.0,airbnb data for analytics: portland reviews
+488,1127.0,airbnb data for analytics: san diego listings
+489,1128.0,airbnb data for analytics: san diego reviews
+490,1130.0,airbnb data for analytics: san francisco listings
+491,1134.0,airbnb data for analytics: santa cruz county reviews
+492,1135.0,airbnb data for analytics: seattle calendar
+493,1137.0,airbnb data for analytics: seattle reviews
+494,1138.0,airbnb data for analytics: sydney calendar
+495,1139.0,airbnb data for analytics: sydney listings
+496,1140.0,airbnb data for analytics: sydney reviews
+497,1141.0,airbnb data for analytics: toronto calendar
+498,1142.0,airbnb data for analytics: toronto listings
+499,1143.0,airbnb data for analytics: toronto reviews
+500,1144.0,airbnb data for analytics: trentino calendar
+501,1145.0,airbnb data for analytics: trentino listings
+502,1146.0,airbnb data for analytics: trentino reviews
+503,1147.0,airbnb data for analytics: vancouver calendar
+504,1148.0,airbnb data for analytics: vancouver listings
+505,1149.0,airbnb data for analytics: vancouver reviews
+506,1150.0,airbnb data for analytics: venice calendar
+507,1151.0,airbnb data for analytics: venice listings
+508,1152.0,airbnb data for analytics: venice reviews
+509,1153.0,airbnb data for analytics: vienna calendar
+510,1154.0,airbnb data for analytics: vienna listings
+511,1155.0,airbnb data for analytics: vienna reviews
+512,1156.0,airbnb data for analytics: washington d.c. calendar
+513,1157.0,airbnb data for analytics: washington d.c. listings
+514,1158.0,airbnb data for analytics: washington d.c. reviews
+515,1159.0,analyze facebook data using ibm watson and watson studio
+516,1160.0,analyze accident reports on amazon emr spark
+517,1161.0,"analyze data, build a dashboard with spark and pixiedust"
+518,1162.0,analyze energy consumption in buildings
+519,1163.0,analyze open data sets with spark & pixiedust
+520,1164.0,analyze open data sets with pandas dataframes
+521,1165.0,analyze precipitation data
+522,1166.0,analyzing data by using the sparkling.data library features
+523,1167.0,annual % inflation by country
+524,1168.0,annual % population growth by country
+525,1169.0,annual precipitation by country 1990-2009
+526,1170.0,"apache spark lab, part 1: basic concepts"
+527,1171.0,"apache spark lab, part 2: querying data"
+528,1172.0,"apache spark lab, part 3: machine learning"
+529,1173.0,births attended by skilled health staff (% of total) by country
+530,1174.0,breast cancer wisconsin (diagnostic) data set
+531,1175.0,"breast cancer detection with xgboost, wml and scikit"
+532,1176.0,build a python app on the streaming analytics service
+533,1177.0,cifar-10 - python version
+534,1178.0,cifar-100 - python version
+535,1179.0,co2 emissions (metric tons per capita) by country
+536,1180.0,calls by customers of a telco company
+537,1181.0,car performance data
+538,1183.0,categorize urban density
+539,1184.0,"city population by sex, city and city type"
+540,1185.0,classify tumors with machine learning
+541,1186.0,connect to db2 warehouse on cloud and db2 using scala
+542,1187.0,consumer prices
+543,1188.0,consumption of ozone-depleting cfcs in odp metric tons
+544,1189.0,contraceptive prevalence (% women 15-49) by country
+545,1190.0,country population by gender 1985-2005
+546,1191.0,country statistics - europe - population and society
+547,1192.0,country statistics: airports
+548,1195.0,country statistics: budget surplus or deficit
+549,1196.0,country statistics: central bank discount rate
+550,1197.0,country statistics: children under the age of 5 years underweight
+551,1198.0,country statistics: commercial bank prime lending rate
+552,1199.0,country statistics: crude oil - exports
+553,1200.0,country statistics: crude oil - imports
+554,1202.0,country statistics: crude oil - proved reserves
+555,1203.0,country statistics: current account balance
+556,1206.0,country statistics: distribution of family income - gini index
+557,1208.0,country statistics: electricity - consumption
+558,1210.0,country statistics: electricity - from fossil fuels
+559,1219.0,country statistics: gdp - per capita (ppp)
+560,1221.0,country statistics: gross national saving
+561,1225.0,country statistics: health expenditures
+562,1226.0,country statistics: imports
+563,1227.0,country statistics: industrial production growth rate
+564,1228.0,country statistics: infant mortality rate
+565,1230.0,country statistics: internet users
+566,1232.0,country statistics: life expectancy at birth
+567,1233.0,country statistics: market value of publicly traded shares
+568,1234.0,country statistics: maternal mortality rate
+569,1235.0,country statistics: merchant marine
+570,1237.0,country statistics: natural gas - consumption
+571,1244.0,country statistics: population
+572,1247.0,country statistics: railways
+573,1251.0,country statistics: refined petroleum products - production
+574,1252.0,country statistics: reserves of foreign exchange and gold
+575,1253.0,country statistics: roadways
+576,1254.0,country statistics: stock of broad money
+577,1257.0,country statistics: stock of domestic credit
+578,1260.0,country statistics: telephones - fixed lines
+579,1261.0,country statistics: telephones - mobile cellular
+580,1263.0,country statistics: unemployment rate
+581,1266.0,country surface area (sq. km)
+582,1267.0,"country populations 15 years of age and over, by educational attainment, age and sex"
+583,1271.0,customer demographics and sales
+584,1273.0,customers of a telco including services used
+585,1274.0,data model with streaming analytics and python
+586,1276.0,deploy your python model as a restful api
+587,1277.0,"54174    detect potentially malfunctioning sensors in r...
+Name: title, dtype: object"
+588,1278.0,develop a scala spark model on chicago building violations
+589,1279.0,"dry bulb temperature, by country, station and year"
+590,1280.0,education (2015): united states demographic measures
+591,1281.0,electric power consumption (kwh per capita) by country
+592,1282.0,employed population by occupation and age
+593,1283.0,energy use (kg of oil equivalent per capita) by country
+594,1285.0,environment statistics database - waste
+595,1286.0,environment statistics database - water
+596,1289.0,"external debt stocks, total (dod, current us$) by country"
+597,1290.0,fashion-mnist
+598,1291.0,fertility rate by country in total births per woman
+599,1292.0,find airbnb deals in portland with machine learning using r
+600,1293.0,finding optimal locations of new store using decision optimization
+601,1294.0,"foreign direct investment, net inflows (bop, current us$) by country"
+602,1295.0,forest area by country in sq km
+603,1296.0,fortune 100 companies
+604,1297.0,from local spark mllib model to cloud with watson machine learning
+605,1298.0,from scikit-learn model to cloud with wml client
+606,1299.0,from spark ml model to online scoring with scala
+607,1303.0,geographic coordinates of world locations
+608,1304.0,gosales transactions for logistic regression model
+609,1305.0,gosales transactions for naive bayes model
+610,1306.0,government consumption expenditure
+611,1307.0,greenhouse gas emissions worldwide
+612,1308.0,"gross national income per capita, atlas method (current us$) by country"
+613,1313.0,health insurance (2015): united states demographic measures
+614,1314.0,healthcare python streaming application demo
+615,1315.0,high-tech exports as % of manufactured exports by country
+616,1317.0,house building with worker skills
+617,1318.0,household consumption expenditure
+618,1319.0,"households by type of household, age and sex of head of household"
+619,1320.0,housing (2015): united states demographic measures
+620,1321.0,ibm cloud sql query
+621,1324.0,ibm watson facebook posts for 2015
+622,1326.0,improved water source by country: % population with access
+623,1328.0,income (2015): united states demographic measures
+624,1329.0,ingest data from message hub in a streams flow
+625,1330.0,insights from new york car accident reports
+626,1331.0,"intentional homicide, number and rate per 100,000 population, by country"
+627,1332.0,intents & examples for ibm watson conversation
+628,1333.0,interest rates
+629,1334.0,international liquidity
+630,1335.0,labor
+631,1336.0,learn basics about notebooks and apache spark
+632,1337.0,life expectancy at birth by country in total years
+633,1338.0,ml optimization using cognitive assistant
+634,1340.0,marital status of men and women
+635,1343.0,maximize oil company profits
+636,1344.0,measles immunization % children 12-23 months by country
+637,1346.0,military expenditure as % of gdp by country
+638,1348.0,mobile cellular subscriptions per 100 people by country
+639,1349.0,"mobile-cellular telephone subscriptions per 100 inhabitants, worldwide"
+640,1350.0,model a golomb ruler
+641,1351.0,model bike sharing data with spss
+642,1354.0,movie recommender system with spark machine learning
+643,1355.0,"natural gas production, 1995 - 2012, worldwide"
+644,1356.0,occupation (2015): united states demographic measures
+645,1357.0,overlapping co-cluster recommendation algorithm (ocular)
+646,1358.0,"part-time employment rate, worldwide, by country and year"
+647,1359.0,percentage of internet users by country
+648,1360.0,pixieapp for outlier detection
+649,1361.0,"population below national poverty line, total, percentage"
+650,1362.0,poverty (2015): united states demographic measures
+651,1363.0,predict loan applicant behavior with tensorflow neural networking
+652,1364.0,predicting churn with the spss random tree algorithm
+653,1365.0,primary school completion rate % of relevant age group by country
+654,1366.0,process events from the watson iot platform in a streams python application
+655,1367.0,programmatic evaluation using watson conversation
+656,1368.0,putting a human face on machine learning
+657,1369.0,ratio (% of population) at national poverty line by country
+658,1371.0,refugees
+659,1372.0,"refugees, worldwide, 2003 - 2013"
+660,1377.0,roads paved as % of total roads by country
+661,1378.0,"roads, paved (% of total roads), worldwide, 1990-2011"
+662,1386.0,small steps to tensorflow
+663,1387.0,social media insights with watson developer cloud & watson studio
+664,1390.0,style transfer experiments with watson machine learning
+665,1391.0,sudoku
+666,1393.0,the nurse assignment problem
+667,1394.0,the nurse assignment problem data
+668,1395.0,the unit commitment problem
+669,1396.0,times world university ranking analysis
+670,1397.0,"total employment, by economic activity (thousands)"
+671,1398.0,total population by country
+672,1400.0,uci ml repository: chronic kidney disease data set
+673,1401.0,uci: abalone
+674,1402.0,uci: adult - predict income
+675,1403.0,uci: car evaluation
+676,1404.0,uci: forest fires
+677,1405.0,uci: heart disease - cleveland
+678,1406.0,uci: iris
+679,1407.0,uci: poker hand - testing data set
+680,1408.0,uci: poker hand - training data set
+681,1409.0,uci: red wine quality
+682,1410.0,uci: sms spam collection
+683,1411.0,uci: white wine quality
+684,1412.0,uci: wine recognition
+685,1414.0,united states demographic measures: education
+686,1415.0,united states demographic measures: income
+687,1416.0,united states demographic measures: population and age
+688,1418.0,united states demographic measures: zip code tabulation areas (zctas)
+689,1419.0,"unmet need for family planning, spacing, percentage, worldwide, by country"
+690,1420.0,use apache systemml and spark for machine learning
+691,1421.0,use pmml to predict iris species
+692,1422.0,use r dataframes & ibm watson natural language understanding
+693,1423.0,use sql with data in hadoop python
+694,1424.0,use spark for python to load data and run sql queries
+695,1425.0,use spark for r to load data and run sql queries
+696,1426.0,use spark for scala to load data and run sql queries
+697,1427.0,"use xgboost, scikit-learn & ibm watson machine learning apis"
+698,1428.0,use decision optimization to schedule league games
+699,1429.0,use deep learning for image classification
+700,1430.0,"using pixiedust for fast, flexible, and easier data analysis and experimentation"
+701,1431.0,visualize car data with brunel
+702,1432.0,visualize data with the matplotlib library
+703,1433.0,visualize the 1854 london cholera outbreak
+704,1434.0,wages
+705,1435.0,watson assistant workspace analysis with user logs
+706,1436.0,welcome to pixiedust
+707,1437.0,what caused the challenger disaster?
+708,1439.0,working with ibm cloud object storage in r
+709,1440.0,world marriage data
+710,1441.0,world tourism data by the world tourism organization
+711,1442.0,worldwide county and region - national accounts - gross national income 1948-2010
+712,1443.0,worldwide electricity demand and production 1990-2012
+713,1444.0,worldwide fuel oil consumption by household (in 1000 metric tons)
