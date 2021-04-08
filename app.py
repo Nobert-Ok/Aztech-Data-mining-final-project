@@ -1,15 +1,6 @@
 import streamlit as st
-from sklearn.cluster import KMeans
-from sklearn.preprocessing import LabelEncoder
-import numpy as np
 import pandas as pd
-from surprise import SVD
-from surprise import Dataset
-from surprise import Reader
 import pickle
-from surprise import accuracy
-from surprise import BaselineOnly
-from surprise.model_selection import train_test_split
 
 # loading the trained model
 model=pickle.load(open('algo.pkl','rb'))
