@@ -33,8 +33,13 @@ def main():
     # display the front end aspect
     st.markdown(html_temp, unsafe_allow_html=True)
     default_value_goes_here = ""
-    recommend_id = st.text_input("Please enter the user id you want to recommend for", default_value_goes_here)
-    number_of_books = st.text_input("How many books do you want to predict", default_value_goes_here)
+    # recommend_id = st.text_input("Please enter the user id you want to recommend for", default_value_goes_here)
+    # number_of_books = st.text_input("How many books do you want to predict", default_value_goes_here)
+    recommend_id = st.number_input("Please enter the user id you want to recommend for", 0, 100000000, 0)
+    number_of_books= st.number_input("How many books do you want to predict", 0, 100000000, 0)
+
+
+
     result = ""
 
     # Display Books
@@ -43,13 +48,14 @@ def main():
         all_book_id = data.book_id.unique()
         top_n = []
         # if recommend_id in list(data['user_id'].unique()):
-        if min(list(data['user_id'])) <= int(recommend_id) <= max(list(data['user_id'])):
+        if min(list(data['user_id'])) <= recommend_id <= max(list(data['user_id'])):
             for book_id in all_book_id:
-                top_n.append(model.predict(uid=int(recommend_id), iid=book_id))
+                top_n.append(model.predict(uid=recommend_id, iid=book_id))
                 top_n.sort(key=lambda x: x.est, reverse=True)
-            if(int(number_of_books)<len(top_n)):
-                result = [id_to_name[pred.iid] for pred in top_n[:int(number_of_books)]]
+            if(number_of_books<len(top_n)):
+                result = [id_to_name[pred.iid] for pred in top_n[:number_of_books]]
             else:
+
                 result = "Choose a number that is less than "+str(len(top_n))
         else:
             result = "Choose an ID that is between "+str(min(list(data['user_id'])))+"  and  "+str(max(list(data['user_id'])))
