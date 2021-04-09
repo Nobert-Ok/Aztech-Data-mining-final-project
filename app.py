@@ -1,10 +1,20 @@
+import random
 import streamlit as st
+from sklearn.cluster import KMeans
+from sklearn.preprocessing import LabelEncoder
+import numpy as np
 import pandas as pd
+from surprise import SVD
+from surprise import Dataset
+from surprise import Reader
 import pickle
+from surprise import accuracy
+from surprise import BaselineOnly
+from surprise.model_selection import train_test_split
 
 # loading the trained model
-model=pickle.load(open('algo.pkl','rb'))
-data = pd.read_csv('final_df.csv')
+model=pickle.load(open('final_algo.pkl','rb'))
+data = pd.read_csv('full_rating_dataframe.csv')
 dff = pd.read_csv('Mapping_df.csv')
 
 id_to_name = {}
@@ -29,14 +39,22 @@ def main():
 
     # Display Books
     if st.button("Predict"):
+        # global result
         all_book_id = data.book_id.unique()
         top_n = []
-        for book_id in all_book_id:
-            top_n.append(model.predict(uid=int(recommend_id), iid=book_id))
-            top_n.sort(key=lambda x: x.est, reverse=True)
-        list = [id_to_name[pred.iid] for pred in top_n[:int(number_of_books)]]
+        # if recommend_id in list(data['user_id'].unique()):
+        if min(list(data['user_id'])) <= int(recommend_id) <= max(list(data['user_id'])):
+            for book_id in all_book_id:
+                top_n.append(model.predict(uid=int(recommend_id), iid=book_id))
+                top_n.sort(key=lambda x: x.est, reverse=True)
+            if(int(number_of_books)<len(top_n)):
+                result = [id_to_name[pred.iid] for pred in top_n[:int(number_of_books)]]
+            else:
+                result = "Choose a number that is less than "+str(len(top_n))
+        else:
+            result = "Choose an ID that is between "+str(min(list(data['user_id'])))+"  and  "+str(max(list(data['user_id'])))
 
-        st.write(list)
+        st.write(result)
 
 
 if __name__ == '__main__':
